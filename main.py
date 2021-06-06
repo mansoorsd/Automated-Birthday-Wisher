@@ -8,8 +8,8 @@ import random
 # Configuring the required data
 letter_list = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
 data = pd.read_csv("birthdays.csv")
-my_email = "testudemy0511@gmail.com"
-password = "Mansoor@6677"
+my_email = ""
+password = ""
 PLACE_HOLDER = "[NAME]"
 
 # Getting hold of today's date
